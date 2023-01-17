@@ -43,3 +43,4 @@ let sumStuff = (total, val) => {
 let arrayReduced = array.reduce(sumStuff);
 
 console.log(arrayReduced);
+console.log('Hello World!');
