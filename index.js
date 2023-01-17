@@ -49,3 +49,4 @@ console.log('Hello World!');
 
 
 let adam = 1;
+let maja = 2;
