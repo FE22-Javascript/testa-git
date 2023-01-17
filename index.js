@@ -35,13 +35,16 @@ let newArray = [1, 2, 3, 4].map((el) => el * 2);
 //console.log(newArray);
 
 let array = [1, 2, 3, 4];
-
+// https://www.youtube.com/watch?v=SWYqp7iY_Tc&ab_channel=TraversyMedia
 let sumStuff = (total, val) => {
     return total + val
 }
 
 console.log('js är skoj');
+console.log('js är skoj');
 
-let arrayReduced = array.reduce(sumStuff);
+let arrayReduced = array.reduce(sumStuf);
 
+console.log(arrayReduced);
+console.log(arrayReduced);
 console.log(arrayReduced);
