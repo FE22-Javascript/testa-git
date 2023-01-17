@@ -46,3 +46,7 @@ let arrayReduced = array.reduce(sumStuff);
 
 console.log(arrayReduced);
 console.log('Hello World!');
+
+
+let adam = 1;
+let maja = 2;
