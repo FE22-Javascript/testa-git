@@ -43,3 +43,6 @@ let sumStuff = (total, val) => {
 let arrayReduced = array.reduce(sumStuff);
 
 console.log(arrayReduced);
+
+
+//2023/01/17 Hello world Testing git by Shirak
