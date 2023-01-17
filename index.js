@@ -40,7 +40,7 @@ let sumStuff = (total, val) => {
     return total + val
 }
 
-console.log('maja är bäst');
+console.log('js är skoj');
 
 let arrayReduced = array.reduce(sumStuff);
 
