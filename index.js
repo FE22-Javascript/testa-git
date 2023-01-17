@@ -3,6 +3,8 @@ let result = [1, 2, 3, 4].filter(isEven);
 
 //console.log(result);
 
+console.log("Hej, här är jag! //Kicki")
+
 users = [{
         name: 'Zelda',
         age: 25
